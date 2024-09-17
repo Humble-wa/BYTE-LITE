@@ -24,10 +24,10 @@ module.exports = { session: process.env.SESSION_ID || 'Byte;;;eyJub2lzZUtleSI6ey
 
 
 ///////////////////////////
-    A_REACT : process.env.AUTO_REACTION || 'on',
+    A_REACT : process.env.AUTO_REACTION || 'no',
     CHATBOT: process.env.CHAT_BOT || "off",
     OWNER_NAME: process.env.OWNER_NAME || "TALKDROVE",
-    NUMERO_OWNER : process.env.OWNER_NUMBER || "923072380380",              
+    NUMERO_OWNER : process.env.OWNER_NUMBER || "2348024012531",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
     BOT : process.env.BOT_NAME || 'BYTE-MD',
